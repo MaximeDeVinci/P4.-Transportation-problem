@@ -1,0 +1,15 @@
+Supply Nodes: 
+S1: 20 
+S2: 30 
+S3: 25 
+
+Demand Nodes: 
+D1: 15 
+D2: 25 
+D3: 20 
+D4: 15 
+
+Cost Matrix: 
+8 6 10 9 
+9 12 13 7 
+14 9 16 5
